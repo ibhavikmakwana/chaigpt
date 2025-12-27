@@ -1,0 +1,1 @@
+{"hosting":{"public":"build/web","ignore":["firebase.json","**/.*","**/node_modules/**"],"rewrites":[{"source":"**","destination":"/index.html"}]},"flutter":{"platforms":{"dart":{"lib/firebase_options.dart":{"projectId":"chaigpt-demo-antigravity","configurations":{"web":"1:1054883476708:web:dabfd3ff2fea81421c68f1"}}}}}}
